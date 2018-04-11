@@ -1,4 +1,4 @@
-# TasksForLuxoft
+# Tasks
 
 coding tasks: 
 
